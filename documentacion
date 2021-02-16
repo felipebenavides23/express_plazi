@@ -1,0 +1,15 @@
+para instalar express 
+
+npm i -S express
+
+node mon extencion de servidor 
+
+npm i -D nodemon
+
+intalar extencion de generador de aplicaciones de forma global
+
+npm i express-generador -g
+
+despues de intalamos los templeas que se van autilizar (tiene que ser en la carpeta raiz)
+
+express --view=pug express-app-gen

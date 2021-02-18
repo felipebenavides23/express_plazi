@@ -13,3 +13,7 @@ npm i express-generador -g
 despues de intalamos los templeas que se van autilizar (tiene que ser en la carpeta raiz)
 
 express --view=pug express-app-gen
+
+para instalar pug para hacer templete mas facil (ejemplo ecommerce)
+
+npm i -S pug
